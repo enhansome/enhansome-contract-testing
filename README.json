@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T04:38:06Z",
+            "last_commit": "2026-08-15T04:40:29Z",
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8920
@@ -79,7 +79,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:15:55Z",
+            "last_commit": "2026-08-14T18:53:49Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
             "stars": 1799
@@ -123,7 +123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:49:59.887Z",
+    "last_updated": "2026-08-15T04:50:52.409Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
