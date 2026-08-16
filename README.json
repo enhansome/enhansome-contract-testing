@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T04:40:29Z",
+            "last_commit": "2026-08-16T01:25:46Z",
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8920
@@ -123,7 +123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:50:52.409Z",
+    "last_updated": "2026-08-16T04:53:20.671Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
