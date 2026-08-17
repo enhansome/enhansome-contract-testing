@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,206 | 🐛 100 | 📅 2026-06-30 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,670 | 🐛 100 | 📅 2026-06-30 list thing.*
 
 </div>
 <br/>
@@ -40,12 +40,12 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Node.js
 
-* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 152 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-16 - Node version of Pact, a Contract Testing Framework.
+* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 152 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-17 - Node version of Pact, a Contract Testing Framework.
 * [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
 
 ## JavaScript
 
-* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,799 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-14 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
+* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,801 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-17 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
 
 ## Java
 
@@ -64,7 +64,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Python
 
-* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 678 | 🐛 19 | 🌐 Python | 📅 2026-08-15 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 678 | 🐛 20 | 🌐 Python | 📅 2026-08-17 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
 
 ## Go
@@ -92,7 +92,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Workshops
 
-* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,799 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-14 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
+* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,801 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-17 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 * [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) ⭐ 159 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-19 - Step by Step Pact workshop.
 * [Specmatic Labs](https://github.com/specmatic/labs) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-08-01 - Contains all the Labs used during the Specmatic hands-on Workshop.
 
@@ -111,4 +111,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
