@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81226206,
             "language": "Java",
             "last_commit": "2026-08-17T10:28:58Z",
             "owner": "karatelabs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15750847,
             "language": "Kotlin",
             "last_commit": "2026-08-12T00:24:27Z",
             "owner": "pact-foundation",
@@ -35,7 +37,7 @@
       "title": "Java"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21374320,
             "language": "C#",
             "last_commit": "2026-08-10T23:15:57Z",
             "owner": "pact-foundation",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198026765,
             "language": "C#",
             "last_commit": "2022-12-08T02:06:33Z",
             "owner": "bartschotten",
@@ -69,62 +73,68 @@
       "title": ".NET"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Pact.js E2E",
-          "description": "The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:48:22Z",
-            "owner": "pact-foundation",
-            "repo": "pact-js",
-            "stars": 1801
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pact Workshop JS",
-          "description": "Step by Step Pact workshop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-19T17:48:55Z",
-            "owner": "pact-foundation",
-            "repo": "pact-workshop-js",
-            "stars": 159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Specmatic Labs",
-          "description": "Contains all the Labs used during the Specmatic hands-on Workshop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T16:20:39Z",
-            "owner": "specmatic",
-            "repo": "labs",
-            "stars": 1
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pact.js E2E",
+              "description": "The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60344592,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:32:41Z",
+                "owner": "pact-foundation",
+                "repo": "pact-js",
+                "stars": 1801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pact Workshop JS",
+              "description": "Step by Step Pact workshop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235333379,
+                "language": "JavaScript",
+                "last_commit": "2026-03-19T17:48:55Z",
+                "owner": "pact-foundation",
+                "repo": "pact-workshop-js",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Specmatic Labs",
+              "description": "Contains all the Labs used during the Specmatic hands-on Workshop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156393865,
+                "language": "Python",
+                "last_commit": "2026-08-01T16:20:39Z",
+                "owner": "specmatic",
+                "repo": "labs",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workshops"
         }
       ],
-      "title": "Workshops"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Educational"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:55:22.972Z",
+    "last_updated": "2026-08-19T12:23:22.726Z",
     "original_repository": "lirantal/awesome-contract-testing",
+    "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
     "enhanced_repository_description": null,
