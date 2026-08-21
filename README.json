@@ -86,7 +86,7 @@
                 "archived": false,
                 "id": 60344592,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T16:12:14Z",
+                "last_commit": "2026-08-21T01:43:20Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
                 "stars": 1801
@@ -132,7 +132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:56:57.276Z",
+    "last_updated": "2026-08-21T04:57:39.723Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
