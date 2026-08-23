@@ -12,7 +12,7 @@
             "archived": false,
             "id": 81226206,
             "language": "Java",
-            "last_commit": "2026-08-22T04:52:09Z",
+            "last_commit": "2026-08-22T07:19:41Z",
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8924
@@ -116,7 +116,7 @@
                 "archived": false,
                 "id": 1156393865,
                 "language": "Python",
-                "last_commit": "2026-08-01T16:20:39Z",
+                "last_commit": "2026-08-22T08:14:14Z",
                 "owner": "specmatic",
                 "repo": "labs",
                 "stars": 1
@@ -132,7 +132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:53:36.358Z",
+    "last_updated": "2026-08-23T04:55:36.093Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",

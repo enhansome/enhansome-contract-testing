@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,702 | 🐛 105 | 📅 2026-08-21 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,040 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 </div>
 <br/>
@@ -94,7 +94,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 * [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,801 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-21 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 * [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) ⭐ 159 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-19 - Step by Step Pact workshop.
-* [Specmatic Labs](https://github.com/specmatic/labs) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-08-01 - Contains all the Labs used during the Specmatic hands-on Workshop.
+* [Specmatic Labs](https://github.com/specmatic/labs) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-08-22 - Contains all the Labs used during the Specmatic hands-on Workshop.
 
 # Contributing
 
@@ -111,4 +111,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
