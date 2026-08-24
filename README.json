@@ -5,6 +5,84 @@
       "items": [
         {
           "node_type": "item",
+          "title": "PACT Broker",
+          "description": "Enables your consumer driven contracts workflow (http://pact.dius.com.au/).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13830051,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T16:36:50Z",
+            "owner": "pact-foundation",
+            "repo": "pact_broker",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PACT Stub Server",
+          "description": "Wraps the Pact Rust mock server in a Docker container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69939804,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:16:08Z",
+            "owner": "pact-foundation",
+            "repo": "pact-stub-server",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT Node.js",
+          "description": "Node version of Pact, a Contract Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41724213,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:06:58Z",
+            "owner": "pact-foundation",
+            "repo": "pact-js-core",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT JavaScript",
+          "description": "JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60344592,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:58:20Z",
+            "owner": "pact-foundation",
+            "repo": "pact-js",
+            "stars": 1801
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "KARATE",
           "description": "Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.",
           "children": [],
@@ -35,6 +113,90 @@
         }
       ],
       "title": "Java"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT Ruby",
+          "description": "Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14731610,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T19:13:52Z",
+            "owner": "pact-foundation",
+            "repo": "pact-ruby",
+            "stars": 2191
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT PHP",
+          "description": "PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97356149,
+            "language": "PHP",
+            "last_commit": "2026-08-21T23:52:05Z",
+            "owner": "pact-foundation",
+            "repo": "pact-php",
+            "stars": 302
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT Python",
+          "description": "Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85806183,
+            "language": "Python",
+            "last_commit": "2026-08-23T06:37:32Z",
+            "owner": "pact-foundation",
+            "repo": "pact-python",
+            "stars": 680
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PACT Go",
+          "description": "Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58860113,
+            "language": "Go",
+            "last_commit": "2026-08-20T15:45:47Z",
+            "owner": "pact-foundation",
+            "repo": "pact-go",
+            "stars": 951
+          }
+        }
+      ],
+      "title": "Go"
     },
     {
       "description": null,
@@ -86,7 +248,7 @@
                 "archived": false,
                 "id": 60344592,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:02:42Z",
+                "last_commit": "2026-08-24T09:58:20Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
                 "stars": 1801
@@ -132,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:06:01.978Z",
+    "last_updated": "2026-08-24T14:41:05.423Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
