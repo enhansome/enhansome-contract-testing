@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T16:36:50Z",
             "owner": "pact-foundation",
             "repo": "pact_broker",
-            "stars": 744
+            "stars": 745
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-24T09:58:20Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1801
+            "stars": 1803
           }
         }
       ],
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 85806183,
             "language": "Python",
-            "last_commit": "2026-08-23T06:37:32Z",
+            "last_commit": "2026-08-24T22:44:41Z",
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 680
+            "stars": 681
           }
         }
       ],
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-10T23:15:57Z",
             "owner": "pact-foundation",
             "repo": "pact-net",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -251,7 +251,7 @@
                 "last_commit": "2026-08-24T09:58:20Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1801
+                "stars": 1803
               }
             },
             {
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:05.423Z",
+    "last_updated": "2026-08-25T04:57:56.678Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
