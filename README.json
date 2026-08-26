@@ -48,7 +48,7 @@
             "archived": false,
             "id": 41724213,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:06:58Z",
+            "last_commit": "2026-08-25T17:54:38Z",
             "owner": "pact-foundation",
             "repo": "pact-js-core",
             "stars": 152
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 60344592,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:58:20Z",
+            "last_commit": "2026-08-25T17:04:29Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
             "stars": 1803
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 81226206,
             "language": "Java",
-            "last_commit": "2026-08-24T03:46:55Z",
+            "last_commit": "2026-08-26T04:40:49Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8926
+            "stars": 8929
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 85806183,
             "language": "Python",
-            "last_commit": "2026-08-24T22:44:41Z",
+            "last_commit": "2026-08-25T19:12:43Z",
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 681
+            "stars": 682
           }
         }
       ],
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 58860113,
             "language": "Go",
-            "last_commit": "2026-08-20T15:45:47Z",
+            "last_commit": "2026-08-25T21:11:45Z",
             "owner": "pact-foundation",
             "repo": "pact-go",
             "stars": 951
@@ -248,7 +248,7 @@
                 "archived": false,
                 "id": 60344592,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:58:20Z",
+                "last_commit": "2026-08-25T17:04:29Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
                 "stars": 1803
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:35.874Z",
+    "last_updated": "2026-08-26T04:59:14.118Z",
     "original_repository": "lirantal/awesome-contract-testing",
     "original_repository_id": 154804234,
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
