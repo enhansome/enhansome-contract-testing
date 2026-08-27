@@ -72,7 +72,7 @@
             "last_commit": "2026-08-26T12:34:41Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1803
+            "stars": 1804
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2026-08-26T13:28:14Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8929
+            "stars": 8930
           }
         },
         {
@@ -251,7 +251,7 @@
                 "last_commit": "2026-08-26T12:34:41Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1803
+                "stars": 1804
               }
             },
             {
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:09.952Z",
+    "last_updated": "2026-08-27T15:19:20.772Z",
     "original_repository_info": {
       "archived": false,
       "id": 154804234,
