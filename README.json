@@ -12,7 +12,7 @@
             "archived": false,
             "id": 13830051,
             "language": "Ruby",
-            "last_commit": "2026-08-14T16:36:50Z",
+            "last_commit": "2026-08-27T05:18:28Z",
             "owner": "pact-foundation",
             "repo": "pact_broker",
             "stars": 745
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 60344592,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:04:29Z",
+            "last_commit": "2026-08-26T12:34:41Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
             "stars": 1803
@@ -90,7 +90,7 @@
             "archived": false,
             "id": 81226206,
             "language": "Java",
-            "last_commit": "2026-08-26T04:40:49Z",
+            "last_commit": "2026-08-26T13:28:14Z",
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 8929
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-12T00:24:27Z",
             "owner": "pact-foundation",
             "repo": "pact-jvm",
-            "stars": 1141
+            "stars": 1142
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-25T19:12:43Z",
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 682
+            "stars": 681
           }
         }
       ],
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 58860113,
             "language": "Go",
-            "last_commit": "2026-08-25T21:11:45Z",
+            "last_commit": "2026-08-26T17:41:24Z",
             "owner": "pact-foundation",
             "repo": "pact-go",
             "stars": 951
@@ -248,7 +248,7 @@
                 "archived": false,
                 "id": 60344592,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T17:04:29Z",
+                "last_commit": "2026-08-26T12:34:41Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
                 "stars": 1803
@@ -294,9 +294,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:59:14.118Z",
-    "original_repository": "lirantal/awesome-contract-testing",
-    "original_repository_id": 154804234,
+    "last_updated": "2026-08-27T11:36:09.952Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 154804234,
+      "language": null,
+      "last_commit": "2026-07-26T06:58:56Z",
+      "owner": "lirantal",
+      "repo": "awesome-contract-testing",
+      "stars": 88
+    },
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
     "enhanced_repository_description": null,
