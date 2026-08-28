@@ -16,7 +16,8 @@
             "owner": "pact-foundation",
             "repo": "pact_broker",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pact-foundation",
             "repo": "pact-stub-server",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "pact-foundation",
             "repo": "pact-js-core",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Node.js"
@@ -72,8 +75,9 @@
             "last_commit": "2026-08-26T12:34:41Z",
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1804
-          }
+            "stars": 1806
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "JavaScript"
@@ -90,11 +94,12 @@
             "archived": false,
             "id": 81226206,
             "language": "Java",
-            "last_commit": "2026-08-26T13:28:14Z",
+            "last_commit": "2026-08-28T15:46:31Z",
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8930
-          }
+            "stars": 8931
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "pact-foundation",
             "repo": "pact-jvm",
             "stars": 1142
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Java"
@@ -130,7 +136,8 @@
             "owner": "pact-foundation",
             "repo": "pact-ruby",
             "stars": 2191
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Ruby"
@@ -151,7 +158,8 @@
             "owner": "pact-foundation",
             "repo": "pact-php",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "PHP"
@@ -168,11 +176,12 @@
             "archived": false,
             "id": 85806183,
             "language": "Python",
-            "last_commit": "2026-08-25T19:12:43Z",
+            "last_commit": "2026-08-27T21:06:46Z",
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 681
-          }
+            "stars": 682
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Python"
@@ -189,11 +198,12 @@
             "archived": false,
             "id": 58860113,
             "language": "Go",
-            "last_commit": "2026-08-26T17:41:24Z",
+            "last_commit": "2026-08-28T03:05:48Z",
             "owner": "pact-foundation",
             "repo": "pact-go",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": "Go"
@@ -214,7 +224,8 @@
             "owner": "pact-foundation",
             "repo": "pact-net",
             "stars": 932
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         },
         {
           "node_type": "item",
@@ -229,7 +240,8 @@
             "owner": "bartschotten",
             "repo": "com-pact",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:42:54.660Z"
         }
       ],
       "title": ".NET"
@@ -251,8 +263,9 @@
                 "last_commit": "2026-08-26T12:34:41Z",
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1804
-              }
+                "stars": 1806
+              },
+              "first_seen": "2026-08-28T16:42:54.660Z"
             },
             {
               "node_type": "item",
@@ -267,7 +280,8 @@
                 "owner": "pact-foundation",
                 "repo": "pact-workshop-js",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T16:42:54.660Z"
             },
             {
               "node_type": "item",
@@ -282,7 +296,8 @@
                 "owner": "specmatic",
                 "repo": "labs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:42:54.660Z"
             }
           ],
           "description": null,
@@ -294,7 +309,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:19:20.772Z",
+    "last_updated": "2026-08-28T16:42:54.660Z",
     "original_repository_info": {
       "archived": false,
       "id": 154804234,
