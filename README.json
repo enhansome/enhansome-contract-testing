@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enables your consumer driven contracts workflow",
+            "homepage": "http://pactflow.io",
             "id": 13830051,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:18:28Z",
+            "open_issues": 119,
             "owner": "pact-foundation",
             "repo": "pact_broker",
-            "stars": 745
+            "stars": 745,
+            "topics": [
+              "consumer",
+              "consumer-driven-contracts",
+              "contract-testing",
+              "hacktoberfest",
+              "hal-browser",
+              "pact",
+              "pact-broker",
+              "provider",
+              "smartbear-supported",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         },
@@ -26,12 +42,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standalone pact stub server",
+            "homepage": null,
             "id": 69939804,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-10T23:16:08Z",
+            "open_issues": 6,
             "owner": "pact-foundation",
             "repo": "pact-stub-server",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -48,12 +71,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core binaries for pact-js, a Contract Testing Framework. NOTE: If you are looking to do Pact contract testing in node, you almost certainly want pact-js, not pact-node.",
+            "homepage": "https://docs.pact.io",
             "id": 41724213,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:54:38Z",
+            "open_issues": 7,
             "owner": "pact-foundation",
             "repo": "pact-js-core",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "hacktoberfest",
+              "nodejs",
+              "pact",
+              "pact-js",
+              "pact-node",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -70,12 +105,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
+            "homepage": "https://pact.io",
             "id": 60344592,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:34:41Z",
+            "open_issues": 99,
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1806
+            "stars": 1806,
+            "topics": [
+              "consumer-driven-contracts",
+              "hacktoberfest",
+              "mocha",
+              "pact",
+              "pact-js",
+              "smartbear-supported",
+              "test-framework"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -92,12 +140,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test Automation Made Simple",
+            "homepage": "https://docs.karatelabs.io",
             "id": 81226206,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:46:31Z",
+            "open_issues": 9,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8931
+            "stars": 8931,
+            "topics": [
+              "api-testing",
+              "assertions",
+              "automated-testing",
+              "automation",
+              "bdd",
+              "contract-testing",
+              "cucumber",
+              "developer-tools",
+              "load-testing",
+              "microservices",
+              "mock-server",
+              "test-automation",
+              "testing",
+              "testing-framework",
+              "testing-tools",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         },
@@ -108,12 +178,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+            "homepage": "https://docs.pact.io",
             "id": 15750847,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T00:24:27Z",
+            "open_issues": 378,
             "owner": "pact-foundation",
             "repo": "pact-jvm",
-            "stars": 1142
+            "stars": 1142,
+            "topics": [
+              "consumer-driven-contracts",
+              "contract-testing",
+              "hacktoberfest",
+              "pact",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -130,12 +211,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+            "homepage": "https://pact.io",
             "id": 14731610,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:13:52Z",
+            "open_issues": 6,
             "owner": "pact-foundation",
             "repo": "pact-ruby",
-            "stars": 2191
+            "stars": 2191,
+            "topics": [
+              "contract-testing",
+              "hacktoberfest",
+              "pact",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -152,12 +243,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project",
+            "homepage": null,
             "id": 97356149,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T23:52:05Z",
+            "open_issues": 13,
             "owner": "pact-foundation",
             "repo": "pact-php",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "apis",
+              "contract-testing",
+              "hacktoberfest",
+              "pact"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -174,12 +275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+            "homepage": "https://pact-foundation.github.io/pact-python/",
             "id": 85806183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:06:46Z",
+            "open_issues": 21,
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "apis",
+              "contract-testing",
+              "hacktoberfest",
+              "pact",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -196,12 +308,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
+            "homepage": "http://pact.io",
             "id": 58860113,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:05:48Z",
+            "open_issues": 49,
             "owner": "pact-foundation",
             "repo": "pact-go",
-            "stars": 951
+            "stars": 951,
+            "topics": [
+              "consumer-driven-contracts",
+              "golang",
+              "hacktoberfest",
+              "pact",
+              "smartbear-supported",
+              "test-framework"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -218,12 +342,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.",
+            "homepage": "https://pact.io",
             "id": 21374320,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-10T23:15:57Z",
+            "open_issues": 40,
             "owner": "pact-foundation",
             "repo": "pact-net",
-            "stars": 932
+            "stars": 932,
+            "topics": [
+              "apis",
+              "contract-testing",
+              "csharp",
+              "dotnet",
+              "pact",
+              "pact-net",
+              "smartbear-supported"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         },
@@ -234,12 +371,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative Pact implementation for .NET",
+            "homepage": null,
             "id": 198026765,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T02:06:33Z",
+            "open_issues": 7,
             "owner": "bartschotten",
             "repo": "com-pact",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "pact",
+              "pact-broker",
+              "pact-contract",
+              "pact-specification"
+            ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
         }
@@ -258,12 +405,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
+                "homepage": "https://pact.io",
                 "id": 60344592,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T12:34:41Z",
+                "open_issues": 99,
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1806
+                "stars": 1806,
+                "topics": [
+                  "consumer-driven-contracts",
+                  "hacktoberfest",
+                  "mocha",
+                  "pact",
+                  "pact-js",
+                  "smartbear-supported",
+                  "test-framework"
+                ]
               },
               "first_seen": "2026-08-28T16:42:54.660Z"
             },
@@ -274,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pact JS workshop - learn Pact in 60 minutes",
+                "homepage": "https://pact.io",
                 "id": 235333379,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-03-19T17:48:55Z",
+                "open_issues": 8,
                 "owner": "pact-foundation",
                 "repo": "pact-workshop-js",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:54.660Z"
             },
@@ -290,12 +455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains all the Labs used during the Specmatic hands-on Workshop",
+                "homepage": null,
                 "id": 1156393865,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T08:14:14Z",
+                "open_issues": 3,
                 "owner": "specmatic",
                 "repo": "labs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:42:54.660Z"
             }
@@ -309,15 +479,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:42:54.660Z",
+    "last_updated": "2026-08-29T05:02:11.545Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome resources for Consumer-Driven Contract Testing",
+      "homepage": null,
       "id": 154804234,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-26T06:58:56Z",
+      "open_issues": 0,
       "owner": "lirantal",
       "repo": "awesome-contract-testing",
-      "stars": 88
+      "stars": 88,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cdc",
+        "consumer",
+        "consumer-driven-contracts",
+        "pact",
+        "pact-broker",
+        "provider",
+        "testing",
+        "testing-framework"
+      ]
     },
     "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
