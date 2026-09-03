@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,156 | 🐛 105 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,524 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -32,7 +32,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 # Awesome SDKs and Frameworks with stars
 
-* [PACT Broker](https://github.com/pact-foundation/pact_broker) ⭐ 745 | 🐛 119 | 🌐 Ruby | 📅 2026-08-31 - Enables your consumer driven contracts workflow (<http://pact.dius.com.au/>).
+* [PACT Broker](https://github.com/pact-foundation/pact_broker) ⭐ 745 | 🐛 120 | 🌐 Ruby | 📅 2026-09-03 - Enables your consumer driven contracts workflow (<http://pact.dius.com.au/>).
 * [PACT Stub Server](https://github.com/pact-foundation/pact-stub-server) ⭐ 80 | 🐛 6 | 🌐 Rust | 📅 2026-08-10 - Wraps the Pact Rust mock server in a Docker container.
 * [PACT](https://docs.pact.io) - Mainstream and mature contract testing framework for Node.js, Ruby, Java and other platforms.
 * [Spring Cloud Contract](#https://cloud.spring.io/spring-cloud-contract/) -
@@ -40,7 +40,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Node.js
 
-* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 152 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-31 - Node version of Pact, a Contract Testing Framework.
+* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 152 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-02 - Node version of Pact, a Contract Testing Framework.
 * [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
 
 ## JavaScript
@@ -49,7 +49,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Java
 
-* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,936 | 🐛 6 | 🌐 Java | 📅 2026-09-02 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
+* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,938 | 🐛 8 | 🌐 Java | 📅 2026-09-02 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
 * [PACT JVM](https://github.com/pact-foundation/pact-jvm) ⭐ 1,142 | 🐛 379 | 🌐 Kotlin | 📅 2026-09-02 - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [BitDive](https://bitdive.io/) - Zero-code contract testing for Java/Kotlin. Captures real API traffic, auto-generates mocks from production behavior, and verifies API contracts through replay.
 
@@ -59,7 +59,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## PHP
 
-* [PACT PHP](https://github.com/pact-foundation/pact-php) ⭐ 302 | 🐛 13 | 🌐 PHP | 📅 2026-08-29 - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT PHP](https://github.com/pact-foundation/pact-php) ⭐ 302 | 🐛 13 | 🌐 PHP | 📅 2026-09-03 - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [Gesso](https://studio-design.github.io/gesso/) - OpenAPI contract testing for PHP. Provider-side (spec-driven) contract testing with PHPUnit coverage, request/response validation, fuzzing, and drift detection. Adapters for Laravel, Symfony, Pest, and PSR-7.
 
 ## Python
@@ -69,11 +69,11 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Go
 
-* [PACT Go](https://github.com/pact-foundation/pact-go) ⭐ 952 | 🐛 49 | 🌐 Go | 📅 2026-09-02 - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+* [PACT Go](https://github.com/pact-foundation/pact-go) ⭐ 952 | 🐛 50 | 🌐 Go | 📅 2026-09-02 - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 ## .NET
 
-* [PACT Net](https://github.com/pact-foundation/pact-net) ⭐ 931 | 🐛 40 | 🌐 C# | 📅 2026-08-10 - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+* [PACT Net](https://github.com/pact-foundation/pact-net) ⭐ 930 | 🐛 40 | 🌐 C# | 📅 2026-08-10 - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 * [com-pact](https://github.com/bartschotten/com-pact) ⭐ 16 | 🐛 7 | 🌐 C# | 📅 2022-12-08 - Another approach on creating Pact for .NET. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 # Educational
@@ -111,4 +111,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
