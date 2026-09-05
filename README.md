@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,827 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,109 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -49,13 +49,13 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Java
 
-* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,939 | 🐛 8 | 🌐 Java | 📅 2026-09-03 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
+* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,941 | 🐛 16 | 🌐 Java | 📅 2026-09-05 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
 * [PACT JVM](https://github.com/pact-foundation/pact-jvm) ⭐ 1,142 | 🐛 379 | 🌐 Kotlin | 📅 2026-09-02 - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [BitDive](https://bitdive.io/) - Zero-code contract testing for Java/Kotlin. Captures real API traffic, auto-generates mocks from production behavior, and verifies API contracts through replay.
 
 ## Ruby
 
-* [PACT Ruby](https://github.com/pact-foundation/pact-ruby) ⭐ 2,191 | 🐛 6 | 🌐 Ruby | 📅 2026-08-14 - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT Ruby](https://github.com/pact-foundation/pact-ruby) ⭐ 2,191 | 🐛 7 | 🌐 Ruby | 📅 2026-08-14 - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 
 ## PHP
 
@@ -64,7 +64,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Python
 
-* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 682 | 🐛 23 | 🌐 Python | 📅 2026-09-03 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 682 | 🐛 23 | 🌐 Python | 📅 2026-09-04 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
 
 ## Go
@@ -111,4 +111,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
