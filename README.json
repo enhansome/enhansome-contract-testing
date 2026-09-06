@@ -15,7 +15,7 @@
             "id": 13830051,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-04T21:11:12Z",
+            "last_commit": "2026-09-05T13:26:20Z",
             "open_issues": 116,
             "owner": "pact-foundation",
             "repo": "pact_broker",
@@ -80,7 +80,7 @@
             "open_issues": 7,
             "owner": "pact-foundation",
             "repo": "pact-js-core",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "hacktoberfest",
               "nodejs",
@@ -114,7 +114,7 @@
             "open_issues": 99,
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1810,
+            "stars": 1812,
             "topics": [
               "consumer-driven-contracts",
               "hacktoberfest",
@@ -145,11 +145,11 @@
             "id": 81226206,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:11:37Z",
+            "last_commit": "2026-09-05T17:56:22Z",
             "open_issues": 16,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8941,
+            "stars": 8944,
             "topics": [
               "api-testing",
               "assertions",
@@ -248,7 +248,7 @@
             "id": 97356149,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T03:43:20Z",
+            "last_commit": "2026-09-06T04:31:47Z",
             "open_issues": 13,
             "owner": "pact-foundation",
             "repo": "pact-php",
@@ -280,11 +280,11 @@
             "id": 85806183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T22:04:30Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-05T16:57:16Z",
+            "open_issues": 24,
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 682,
+            "stars": 683,
             "topics": [
               "apis",
               "contract-testing",
@@ -317,7 +317,7 @@
             "open_issues": 50,
             "owner": "pact-foundation",
             "repo": "pact-go",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "consumer-driven-contracts",
               "golang",
@@ -414,7 +414,7 @@
                 "open_issues": 99,
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1810,
+                "stars": 1812,
                 "topics": [
                   "consumer-driven-contracts",
                   "hacktoberfest",
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:24:24.075Z",
+    "last_updated": "2026-09-06T08:43:12.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",
@@ -491,7 +491,7 @@
       "open_issues": 0,
       "owner": "lirantal",
       "repo": "awesome-contract-testing",
-      "stars": 88,
+      "stars": 89,
       "topics": [
         "awesome",
         "awesome-list",
