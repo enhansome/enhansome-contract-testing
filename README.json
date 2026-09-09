@@ -149,7 +149,7 @@
             "open_issues": 16,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8947,
+            "stars": 8950,
             "topics": [
               "api-testing",
               "assertions",
@@ -187,7 +187,7 @@
             "open_issues": 379,
             "owner": "pact-foundation",
             "repo": "pact-jvm",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "consumer-driven-contracts",
               "contract-testing",
@@ -248,8 +248,8 @@
             "id": 97356149,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T07:57:20Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-09T05:43:42Z",
+            "open_issues": 11,
             "owner": "pact-foundation",
             "repo": "pact-php",
             "stars": 302,
@@ -284,7 +284,7 @@
             "open_issues": 17,
             "owner": "pact-foundation",
             "repo": "pact-python",
-            "stars": 683,
+            "stars": 684,
             "topics": [
               "apis",
               "contract-testing",
@@ -313,11 +313,11 @@
             "id": 58860113,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T07:33:48Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-09T00:47:45Z",
+            "open_issues": 54,
             "owner": "pact-foundation",
             "repo": "pact-go",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "consumer-driven-contracts",
               "golang",
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:55:20.495Z",
+    "last_updated": "2026-09-09T09:00:59.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",
