@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,027 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,468 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -40,16 +40,16 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Node.js
 
-* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 153 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29 - Node version of Pact, a Contract Testing Framework.
+* [PACT Node.js](https://github.com/pact-foundation/pact-node) ⭐ 153 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-01 - Node version of Pact, a Contract Testing Framework.
 * [Specmatic Node.js](https://www.npmjs.com/package/specmatic) - Node wrapper of Specmatic.
 
 ## JavaScript
 
-* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,817 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-01 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
+* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,817 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
 
 ## Java
 
-* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,972 | 🐛 0 | 🌐 Java | 📅 2026-10-01 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
+* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 8,973 | 🐛 3 | 🌐 Java | 📅 2026-10-02 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
 * [PACT JVM](https://github.com/pact-foundation/pact-jvm) ⭐ 1,146 | 🐛 378 | 🌐 Kotlin | 📅 2026-09-25 - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [BitDive](https://bitdive.io/) - Zero-code contract testing for Java/Kotlin. Captures real API traffic, auto-generates mocks from production behavior, and verifies API contracts through replay.
 
@@ -59,12 +59,12 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## PHP
 
-* [PACT PHP](https://github.com/pact-foundation/pact-php) ⭐ 303 | 🐛 11 | 🌐 PHP | 📅 2026-09-30 - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT PHP](https://github.com/pact-foundation/pact-php) ⭐ 303 | 🐛 11 | 🌐 PHP | 📅 2026-10-02 - PHP version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [Gesso](https://studio-design.github.io/gesso/) - OpenAPI contract testing for PHP. Provider-side (spec-driven) contract testing with PHPUnit coverage, request/response validation, fuzzing, and drift detection. Adapters for Laravel, Symfony, Pest, and PSR-7.
 
 ## Python
 
-* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 684 | 🐛 20 | 🌐 Python | 📅 2026-09-29 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [PACT Python](https://github.com/pact-foundation/pact-python) ⭐ 684 | 🐛 22 | 🌐 Python | 📅 2026-10-02 - Python version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [Specmatic Python](https://pypi.org/project/specmatic/) - Python wrapper of Specmatic.
 
 ## Go
@@ -73,7 +73,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## .NET
 
-* [PACT Net](https://github.com/pact-foundation/pact-net) ⭐ 931 | 🐛 44 | 🌐 C# | 📅 2026-09-23 - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+* [PACT Net](https://github.com/pact-foundation/pact-net) ⭐ 930 | 🐛 44 | 🌐 C# | 📅 2026-09-23 - C# version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 * [com-pact](https://github.com/bartschotten/com-pact) ⭐ 16 | 🐛 7 | 🌐 C# | 📅 2022-12-08 - Another approach on creating Pact for .NET. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
 # Educational
@@ -92,7 +92,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Workshops
 
-* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,817 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-01 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
+* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,817 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 * [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-19 - Step by Step Pact workshop.
 * [Specmatic Labs](https://github.com/specmatic/labs) ⭐ 2 | 🐛 5 | 🌐 Python | 📅 2026-09-30 - Contains all the Labs used during the Specmatic hands-on Workshop.
 
@@ -111,4 +111,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
