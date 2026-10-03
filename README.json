@@ -149,7 +149,7 @@
             "open_issues": 8,
             "owner": "karatelabs",
             "repo": "karate",
-            "stars": 8974,
+            "stars": 8975,
             "topics": [
               "api-testing",
               "assertions",
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:24.620Z",
+    "last_updated": "2026-10-03T09:55:30.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",
