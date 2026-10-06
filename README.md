@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,370 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,383 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
