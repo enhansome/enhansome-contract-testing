@@ -76,8 +76,8 @@
             "id": 41724213,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T04:42:41Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-18T05:43:15Z",
+            "open_issues": 7,
             "owner": "pact-foundation",
             "repo": "pact-js-core",
             "stars": 153,
@@ -110,7 +110,7 @@
             "id": 60344592,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T05:08:52Z",
+            "last_commit": "2026-10-18T05:16:13Z",
             "open_issues": 98,
             "owner": "pact-foundation",
             "repo": "pact-js",
@@ -248,7 +248,7 @@
             "id": 97356149,
             "language": "PHP",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T06:23:53Z",
+            "last_commit": "2026-10-17T15:47:32Z",
             "open_issues": 6,
             "owner": "pact-foundation",
             "repo": "pact-php",
@@ -280,7 +280,7 @@
             "id": 85806183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T04:44:45Z",
+            "last_commit": "2026-10-17T22:12:02Z",
             "open_issues": 20,
             "owner": "pact-foundation",
             "repo": "pact-python",
@@ -294,43 +294,38 @@
             ]
           },
           "first_seen": "2026-08-28T16:42:54.660Z"
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "PACT Go",
-          "description": "Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
+          "title": "DriftWire",
+          "description": "Detect API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.",
-            "homepage": "http://pact.io",
-            "id": 58860113,
-            "language": "Go",
+            "description": "Detect API contract drift: validate your live API against its OpenAPI spec, and catch breaking changes between versions.",
+            "homepage": "https://haswell119.github.io/driftwire/",
+            "id": 1379544618,
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T23:38:03Z",
-            "open_issues": 44,
-            "owner": "pact-foundation",
-            "repo": "pact-go",
-            "stars": 958,
+            "last_commit": "2026-09-23T22:49:04Z",
+            "open_issues": 0,
+            "owner": "Haswell119",
+            "repo": "driftwire",
+            "stars": 0,
             "topics": [
-              "consumer-driven-contracts",
-              "golang",
-              "hacktoberfest",
-              "pact",
-              "smartbear-supported",
-              "test-framework"
+              "api-testing",
+              "ci",
+              "contract-testing",
+              "drift-detection",
+              "openapi",
+              "openapi3",
+              "openapi31"
             ]
           },
-          "first_seen": "2026-08-28T16:42:54.660Z"
+          "first_seen": "2026-10-18T08:54:55.325Z"
         }
       ],
-      "title": "Go"
+      "title": "Python"
     },
     {
       "description": null,
@@ -410,7 +405,7 @@
                 "id": 60344592,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T05:08:52Z",
+                "last_commit": "2026-10-18T05:16:13Z",
                 "open_issues": 98,
                 "owner": "pact-foundation",
                 "repo": "pact-js",
@@ -479,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:38:41.323Z",
+    "last_updated": "2026-10-18T08:54:55.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",
@@ -487,8 +482,8 @@
       "id": 154804234,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-26T06:58:56Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-18T02:17:51Z",
+      "open_issues": 0,
       "owner": "lirantal",
       "repo": "awesome-contract-testing",
       "stars": 89,
@@ -506,7 +501,7 @@
         "testing-framework"
       ]
     },
-    "original_repository_sha": "a02f769ed41fc6b2aa7f70494e41d2d049f47891",
+    "original_repository_sha": "71215c6d453f32c1d255d740a9f1e42ddca0a9f1",
     "enhanced_repository": "enhansome/enhansome-contract-testing",
     "enhanced_repository_description": null,
     "title": "Awesome SDKs and Frameworks with stars"
