@@ -15,8 +15,8 @@
             "id": 13830051,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-10T09:02:12Z",
-            "open_issues": 124,
+            "last_commit": "2026-11-11T11:20:17Z",
+            "open_issues": 118,
             "owner": "pact-foundation",
             "repo": "pact_broker",
             "stars": 745,
@@ -145,7 +145,7 @@
             "id": 81226206,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-10T10:34:58Z",
+            "last_commit": "2026-11-11T06:41:41Z",
             "open_issues": 8,
             "owner": "karatelabs",
             "repo": "karate",
@@ -252,7 +252,7 @@
             "open_issues": 9,
             "owner": "pact-foundation",
             "repo": "pact-php",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "apis",
               "contract-testing",
@@ -280,8 +280,8 @@
             "id": 85806183,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T03:06:02Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-11T06:06:19Z",
+            "open_issues": 22,
             "owner": "pact-foundation",
             "repo": "pact-python",
             "stars": 688,
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:45:40.804Z",
+    "last_updated": "2026-11-11T11:56:59.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",
