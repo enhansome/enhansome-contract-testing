@@ -15,8 +15,8 @@
             "id": 13830051,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:40:01Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-18T05:13:09Z",
+            "open_issues": 121,
             "owner": "pact-foundation",
             "repo": "pact_broker",
             "stars": 746,
@@ -114,7 +114,7 @@
             "open_issues": 103,
             "owner": "pact-foundation",
             "repo": "pact-js",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "consumer-driven-contracts",
               "hacktoberfest",
@@ -146,7 +146,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-11-13T17:20:19Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "karatelabs",
             "repo": "karate",
             "stars": 9009,
@@ -187,7 +187,7 @@
             "open_issues": 343,
             "owner": "pact-foundation",
             "repo": "pact-jvm",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "consumer-driven-contracts",
               "contract-testing",
@@ -409,7 +409,7 @@
                 "open_issues": 103,
                 "owner": "pact-foundation",
                 "repo": "pact-js",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "consumer-driven-contracts",
                   "hacktoberfest",
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:37:04.021Z",
+    "last_updated": "2026-11-18T13:11:30.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for Consumer-Driven Contract Testing",

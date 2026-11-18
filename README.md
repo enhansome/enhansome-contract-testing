@@ -10,7 +10,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,300 | 🐛 104 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,792 | 🐛 104 | 📅 2026-09-02 list thing.*
 
 </div>
 <br/>
@@ -32,7 +32,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 # Awesome SDKs and Frameworks with stars
 
-* [PACT Broker](https://github.com/pact-foundation/pact_broker) ⭐ 746 | 🐛 120 | 🌐 Ruby | 📅 2026-11-16 - Enables your consumer driven contracts workflow (<http://pact.dius.com.au/>).
+* [PACT Broker](https://github.com/pact-foundation/pact_broker) ⭐ 746 | 🐛 121 | 🌐 Ruby | 📅 2026-11-18 - Enables your consumer driven contracts workflow (<http://pact.dius.com.au/>).
 * [PACT Stub Server](https://github.com/pact-foundation/pact-stub-server) ⭐ 80 | 🐛 6 | 🌐 Rust | 📅 2026-08-10 - Wraps the Pact Rust mock server in a Docker container.
 * [PACT](https://docs.pact.io) - Mainstream and mature contract testing framework for Node.js, Ruby, Java and other platforms.
 * [Spring Cloud Contract](#https://cloud.spring.io/spring-cloud-contract/) -
@@ -45,12 +45,12 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## JavaScript
 
-* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,827 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-17 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
+* [PACT JavaScript](https://github.com/pact-foundation/pact-js) ⭐ 1,828 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-17 - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems
 
 ## Java
 
-* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 9,009 | 🐛 6 | 🌐 Java | 📅 2026-11-13 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
-* [PACT JVM](https://github.com/pact-foundation/pact-jvm) ⭐ 1,148 | 🐛 343 | 🌐 Kotlin | 📅 2026-11-03 - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
+* [KARATE](https://github.com/karatelabs/karate/tree/master/karate-netty#consumer-provider-example) ⭐ 9,009 | 🐛 8 | 🌐 Java | 📅 2026-11-13 - Testing framework. Allows execution of API Tests and API Test-Doubles, which makes it possible to implement consumer driven contracts in Java and other languages.
+* [PACT JVM](https://github.com/pact-foundation/pact-jvm) ⭐ 1,147 | 🐛 343 | 🌐 Kotlin | 📅 2026-11-03 - JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 * [BitDive](https://bitdive.io/) - Zero-code contract testing for Java/Kotlin. Captures real API traffic, auto-generates mocks from production behavior, and verifies API contracts through replay.
 
 ## Ruby
@@ -93,7 +93,7 @@ A curated list of awesome resources for Consumer-Driven Contracts Testing
 
 ## Workshops
 
-* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,827 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-17 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
+* [Pact.js E2E](https://github.com/pact-foundation/pact-js/tree/master/examples/e2e) ⭐ 1,828 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-17 - The Pact.js repository has an End-to-End example that is made up of a Consumer, Provider and the Pact Broker for sharing and validating the contracts.
 * [Pact Workshop JS](https://github.com/pact-foundation/pact-workshop-js) ⭐ 158 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-19 - Step by Step Pact workshop.
 * [Specmatic Labs](https://github.com/specmatic/labs) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Contains all the Labs used during the Specmatic hands-on Workshop.
 
@@ -112,4 +112,4 @@ say *hi* on [Twitter](https://twitter.com/liran_tal)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
